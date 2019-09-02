@@ -1,0 +1,8 @@
+Adverage
+Muscular
+Athletic
+Overweight
+Skinny
+Short
+Tall
+Deformed

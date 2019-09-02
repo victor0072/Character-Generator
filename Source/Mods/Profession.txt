@@ -1,0 +1,75 @@
+Super Hero(Power)
+Super Villian (Power)
+Doctor
+Scientist
+Astronaut
+Enginieer
+Nerd
+Librarian
+Teacher
+Technician
+Trucker
+Soldier
+Fastfood Employee
+Police
+Mobster
+Spy
+Accountant
+Comedian
+Chef
+Pilot
+Biker
+Homeless
+Garbage Man
+Driver
+Hair Stylist
+Vlogger
+Nurse
+Knight
+Monk
+Mage
+Guard
+Warlock
+Noble
+Seer
+Merchant
+Bartender
+Maid
+Butler
+Waiter
+Nomad
+Apothecary
+Sage
+Miner
+Pirate
+Hunter
+Viking
+Criminal
+Gambler
+Crossbowman
+Archer
+Witch
+Magician
+Samurai
+Swordman
+Blacksmith
+Assasin
+Berserker
+Gladiator
+Barbarian
+Ninja
+Wastelander
+Gunslinger
+Hunter
+Peasent
+Priest
+Alchemist
+Artist
+Rouge
+Acrobat
+Dancer
+Clown
+Bard
+Musician
+Jester
+Time Traveler
